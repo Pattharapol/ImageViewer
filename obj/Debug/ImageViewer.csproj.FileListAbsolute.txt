@@ -1,0 +1,11 @@
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.AssemblyReference.cache
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.frmViewer.resources
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.cache
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+E:\#1 CodingArea\C#_Practice_Winform\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
